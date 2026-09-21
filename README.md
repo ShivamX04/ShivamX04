@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | MERN Stack
 
-I'm a Computer Science Engineering student and Full Stack Developer focused on building modern, scalable web applications.
+I'm a Computer Science Engineering student and Full Stack Developer focused on building real-world web applications with the MERN stack.
 
 I enjoy working with **React, Node.js, Express, MongoDB, and JavaScript**, and I also integrate AI into applications to build practical solutions.
 
