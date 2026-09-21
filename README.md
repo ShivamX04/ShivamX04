@@ -66,7 +66,7 @@ Real-time platform connecting vehicle owners with mechanics using geolocation an
 ## 📫 Connect With Me
 
 * GitHub: [ShivamX04](https://github.com/ShivamX04)
-* LinkedIn: **Add your LinkedIn URL here**
+* LinkedIn: (https://www.linkedin.com/in/shivam-tiwari-23378a261/)
 
 ---
 
